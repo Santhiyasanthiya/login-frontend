@@ -31,7 +31,7 @@ const navigate = useNavigate();
           <div className="signup">
           <form>
             <label htmlFor="chk" aria-hidden="true">
-              Sign up
+              Sign up page
             </label>
             <input
               value={name}
